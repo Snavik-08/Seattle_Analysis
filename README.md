@@ -7,8 +7,8 @@ This notebook contains an analysis for the Airbnb Seattle Data Set. The original
 - how much revenue one can expect by providing an accommodation in Seattle on Airbnb
 
 # The following packages were used within the notebook
-- pandas- 
-seaborn
+- pandas
+- seaborn
 - re 
 - or
 - tabulate
@@ -18,7 +18,8 @@ seaborn
 - listings.csv
 - reviews.csv
 
-# The notebook with the analyis can be found in Seattle_EDA.ipynb
+# The notebook with the analyis can be found in 
+- Seattle_EDA.ipynb
  
 
 # Summary of the EDA
